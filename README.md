@@ -1,2 +1,2 @@
 # Log
-hoal
+git clone 
